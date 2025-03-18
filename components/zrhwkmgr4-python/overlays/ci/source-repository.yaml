@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zrhwkmgr4-python-repository
+spec:
+  url: https://github.com/chetna14manku-org/zrhwkmgr4-python
